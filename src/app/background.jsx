@@ -23,8 +23,8 @@ export default function Background({ width, height, children }) {
           midtoneColor: 0x001d3d,
           lowlightColor: 0x003566,
           baseColor: 0x000814,
-          blurFactor: 0.65,
-          speed: 3.5,
+          blurFactor: 0.75,
+          speed: 4.5,
           zoom: 1.8,
         })
       );
